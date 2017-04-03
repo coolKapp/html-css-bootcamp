@@ -1,0 +1,8 @@
+div {
+    width: 275px;
+    height: 190px;
+    background-image: url("../../000_img/surf.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
